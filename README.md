@@ -1,12 +1,12 @@
 # Titanic Survival Prediction Web App
 
 ## Project Overview
-This project is a **machine learning model deployment using Streamlit**. It predicts passenger survival on the Titanic based on features such as age, sex, class, fare, and family details. The app allows interactive exploration, visualizations, and real-time predictions.
+This project involves the deployment of a **machine learning model using Streamlit**. It predicts passenger survival on the Titanic based on features such as age, sex, class, fare, and family details. The app allows interactive exploration, visualizations, and real-time predictions.
 
 ---
 
 ## Author
-- Name: Your Name
+- Name: ITBIN-2211-0011
 - Course: IT41043 - Intelligent Systems
 - Year: 4th Year, BSc IT
 
@@ -14,8 +14,8 @@ This project is a **machine learning model deployment using Streamlit**. It pred
 
 ## Dataset
 - **Source:** Titanic Dataset from Kaggle
-- **File:** `data/Titanic-Dataset.csv`
-- **Description:** The dataset contains information about Titanic passengers including `Survived` (target), `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, `Fare`, and `Embarked`.
+- **File:** `data/titanic.csv`
+- **Description:** The dataset contains information about Titanic passengers, including `Survived` (target), `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, `Fare`, and `Embarked`.
 - **Preprocessing Steps:**
   - Dropped irrelevant columns: `Name`, `Ticket`, `Cabin`
   - Handled missing values by dropping rows with NaN
@@ -54,7 +54,7 @@ ml_streamlit_titanic/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <your-github-repo-url>
+git clone (https://github.com/ishfakahd/ml_streamlit_titanic.git)
 
 2. Navigate to the project folder:
 
@@ -74,7 +74,7 @@ Deployment
 
 Streamlit Cloud URL: Your Deployed App Link Here
 
-All features work in the cloud environment including interactive visualizations and model predictions.
+All features work in the cloud environment, including interactive visualizations and model predictions.
 
 Model Details
 
@@ -95,3 +95,4 @@ Learned how to preprocess real-world data and handle categorical features.
 Built an interactive web application using Streamlit.
 
 Learned the end-to-end ML deployment process including GitHub version control and Streamlit Cloud deployment.
+
