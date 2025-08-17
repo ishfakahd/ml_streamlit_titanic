@@ -5,6 +5,11 @@ This project involves the deployment of a **machine learning model using Streaml
 
 ---
 
+GitHub URL: https://github.com/ishfakahd/ml_streamlit_titanic.git
+Streamlit URL: https://mytitanicstreamml.streamlit.app/
+
+---
+
 ## Author
 - Name: ITBIN-2211-0011
 - Course: IT41043 - Intelligent Systems
@@ -95,4 +100,5 @@ Learned how to preprocess real-world data and handle categorical features.
 Built an interactive web application using Streamlit.
 
 Learned the end-to-end ML deployment process including GitHub version control and Streamlit Cloud deployment.
+
 
